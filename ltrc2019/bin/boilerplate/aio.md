@@ -1,7 +1,7 @@
 ---
 ---
 
-{% includes base_path.html %}
+{% include base_path.html %}
 
 <script>
   window.onload = function() {
