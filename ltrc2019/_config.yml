@@ -27,10 +27,10 @@ kind: "workshop"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: <USERNAME>/<PROJECT>
+repository: gtlaflair/ltrc2019
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "gtlaflair@gmail.com"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
