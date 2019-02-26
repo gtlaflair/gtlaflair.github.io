@@ -84,6 +84,9 @@ defaults:
       root: ..
       layout: page
 
+include:
+  - _includes
+
 # Files and directories that are not to be copied.
 exclude:
   - Makefile
